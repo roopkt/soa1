@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{C9535D4B-7DC1-4AA5-A57D-4761BC8A6FD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guest", "Guest", "{DC40909D-8DB3-4808-A6B5-BF14B6E0BF54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Finance", "Finance", "{E15AABE2-D4EF-42C6-A27D-C3F34AD3A7D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Payment", "Payment", "{0FEEAA15-37BE-489D-B4B0-1AA2DFB137F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RoomAllocation", "RoomAllocation", "{B398055F-2CC6-4B99-8CA5-82F866E168D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inventory", "Inventory", "{7F926A71-E0B6-4FFF-A34D-EE0A95E4A407}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sales", "Sales", "{0FFD3A56-AC59-4CA5-8D18-466C91406237}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
