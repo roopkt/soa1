@@ -17,8 +17,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inventory", "Inventory", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sales", "Sales", "{0FFD3A56-AC59-4CA5-8D18-466C91406237}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Frontend", "Hotel.Frontend\Hotel.Frontend.csproj", "{BBDCD94A-99FE-456A-A9EC-7B283B9388E3}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDCD94A-99FE-456A-A9EC-7B283B9388E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDCD94A-99FE-456A-A9EC-7B283B9388E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDCD94A-99FE-456A-A9EC-7B283B9388E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDCD94A-99FE-456A-A9EC-7B283B9388E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BBDCD94A-99FE-456A-A9EC-7B283B9388E3} = {C9535D4B-7DC1-4AA5-A57D-4761BC8A6FD1}
 	EndGlobalSection
 EndGlobal
